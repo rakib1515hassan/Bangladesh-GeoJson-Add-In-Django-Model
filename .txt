@@ -1,0 +1,27 @@
+Address
+|-- manage.py
+|-- requirements.txt
+|-- db.sqlite3
+|
+|-- address/
+|   |-- settings.py
+|   |-- urls.py
+|   |-- ...
+|
+|-- myapp/
+|   |-- migrations/
+|   |-- admin.py
+|   |-- models.py (my Division Model is here)
+|   |-- serializers.py
+|   |-- views.py
+|   |-- urls.py
+|   |-- ...
+|
+|-- Data/
+|   |-- AddressData.py/
+|   |-- division.json
+|
+|
+|-- static/
+|-- media/
+|-- templates/
