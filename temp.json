@@ -1,0 +1,58 @@
+{
+    "districts": [
+        {
+            "id": "1",
+            "division_id": "3",
+            "name": "Dhaka",
+            "bn_name": "ঢাকা",
+            "lat": "23.7115253",
+            "long": "90.4111451"
+        },
+        {
+            "id": "2",
+            "division_id": "3",
+            "name": "Faridpur",
+            "bn_name": "ফরিদপুর",
+            "lat": "23.6070822",
+            "long": "89.8429406"
+        }
+    ]
+}
+
+
+{
+    "postcodes": [
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Amtali",
+            "postOffice": "Amtali",
+            "postCode": "8710"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Bamna",
+            "postOffice": "Bamna",
+            "postCode": "8730"
+        }
+    ]
+}
+
+
+{
+    "upazilas": [
+        {
+            "id": "1",
+            "district_id": "34",
+            "name": "Amtali",
+            "bn_name": "আমতলী"
+        },
+        {
+            "id": "2",
+            "district_id": "34",
+            "name": "Bamna",
+            "bn_name": "বামনা"
+        }
+    ]
+}
