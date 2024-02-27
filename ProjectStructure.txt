@@ -11,7 +11,7 @@ Address
 |-- myapp/
 |   |-- migrations/
 |   |-- admin.py
-|   |-- models.py (my Division Model is here)
+|   |-- models.py (my Address Model is here)
 |   |-- serializers.py
 |   |-- views.py
 |   |-- urls.py
@@ -20,6 +20,9 @@ Address
 |-- Data/
 |   |-- AddressData.py/
 |   |-- division.json
+|   |-- districts.json
+|   |-- postcodes.json
+|   |-- upazilas.json
 |
 |
 |-- static/

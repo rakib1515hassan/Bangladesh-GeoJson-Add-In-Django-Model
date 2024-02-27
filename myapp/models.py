@@ -48,7 +48,7 @@ class Upazila(TimestampedModel):
 
 class PostCode(TimestampedModel):
     division = models.ForeignKey(Division, on_delete=models.CASCADE)
-    district = models.ForeignKey(District, on_delete=models.CASCADE)
+    district = models.ForeignKey(District, on_delete=models.CASCADE, null=True, blank=True)
 
     upazila    = models.CharField(max_length=250, null=True, blank=True)
     postOffice = models.CharField(max_length=250, null=True, blank=True)
